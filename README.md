@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br/> I'm <b>Mahmut Karaarslan</b>, a Software & Game Developer from <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/tr.svg" width="16"/> <b>İstanbul, Turkey</b>.</p>
+<p>Welcome to my github! <br/> I'm <b>Mahmut Karaarslan</b>, a Software & Game Developer from <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/tr.svg" width="16"/> <b>İstanbul, Turkey</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
